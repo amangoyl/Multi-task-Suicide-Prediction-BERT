@@ -16,6 +16,11 @@ Suicide_detection_single_task_plus_huggingface.ipynb -- Single task Suicide Dete
 
 Sentiment_Prediction_Single_task.ipynb -- Single task Sentiment prediction experiments
 
+## Architecture
+
+![Multi-Task1](https://user-images.githubusercontent.com/102705658/230920565-61a31845-419a-4ee7-b9e4-3f483c29e4cc.png)
+
+
 ## Performance
 F1 Score Suicidal Multi-task	0.970
 

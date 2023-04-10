@@ -16,3 +16,6 @@ Suicide_detection_single_task_plus_huggingface.ipynb -- Single task Suicide Dete
 
 Sentiment_Prediction_Single_task.ipynb -- Single task Sentiment prediction experiments
 
+## Performance
+F1 Score Suicidal Multi-task	0.970
+F1 Score Sentiment Multi-task	0.891

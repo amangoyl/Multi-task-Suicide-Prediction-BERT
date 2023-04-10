@@ -3,13 +3,12 @@ Multi-Task Learning to Train BERT transformers for predicting suicidal intention
 
 Refer https://www.kaggle.com/datasets/amangoyl/reddit-dataset-for-multi-task-nlp for dataset
 
-## Description for different files:
+## Short description of notebooks:
 
 
-Sentiment_labels.ipynb -- Labelling the data with sentiments using Transfer Learning and bagging approach
+Sentiment_labels.ipynb -- Labelling the data with sentiments using Transfer Learning and making three models to vote for the final label
 
-MTL_Suicide_Sentiment.ipynb -- Implementation of Multi-task Learning model
-
+Multi-Task_Suicide_Sentiment.ipynb -- Implementation of Multi-task Learning model
 
 Baseline_SVM_Suicide_Sentiment.ipynb -- Experiments with SVM model for both Suicidal detection as well as Sentiment analysis
 

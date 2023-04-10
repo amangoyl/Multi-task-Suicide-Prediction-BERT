@@ -1,7 +1,7 @@
 # Multi-task-Suicide-Prediction-BERT
 Multi-Task Learning to Train BERT transformers for predicting suicidal intentions from Reddit posts using sentiment analysis as the auxiliary task
 
-Refer https://www.kaggle.com/datasets/amangoyl/reddit-dataset-for-multi-task-nlp for dataset
+Please refer https://www.kaggle.com/datasets/amangoyl/reddit-dataset-for-multi-task-nlp for dataset
 
 ## Short description of notebooks:
 
